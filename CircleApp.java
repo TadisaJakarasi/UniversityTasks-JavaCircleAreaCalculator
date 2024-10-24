@@ -1,3 +1,7 @@
+//Lab Task 3
+//Tadisa Jakarasi
+
+
 import java.util.Scanner;
 
 public class CircleApp {
